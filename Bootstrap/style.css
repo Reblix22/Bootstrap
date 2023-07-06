@@ -1,0 +1,91 @@
+#aa {
+    margin-left: 100px;
+}
+
+#ctn {
+    background: #397b88;
+    padding-bottom: 200px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+
+#txt {
+    resize:unset;
+}
+
+#exampleFormControlInput1 {
+    border: 3px solid black;
+}
+
+#dh4 {
+    color: black;
+}
+
+#nh4 {
+    color: black;
+}
+
+#exampleFormControlTextarea1{
+    border: 3px solid black;
+}
+
+#h2l {
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#tbl {
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+
+#label1 {
+    padding-top: 10px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+#label2 {
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+#tlt {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.btn {
+    border: unset;
+    margin-top: -9px;
+}
+
+table td {
+    text-align: center;
+}
+
+table th {
+    text-align: center
+}
+
+#span1 {
+    display: none;
+}
+
+#span2 {
+    display: none;
+}
+
+#añadir {
+    margin-bottom: -23px;
+    border: 2px solid black;
+}
+
+#eliminar {
+    border: 2px solid black;
+}
